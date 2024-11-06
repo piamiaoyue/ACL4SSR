@@ -1,1 +1,1 @@
--rm
+用于我的openclash自定义模板
